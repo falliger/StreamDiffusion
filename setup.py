@@ -14,7 +14,7 @@ _deps = [
     "omegaconf",
     "cuda-python",
     "onnx==1.15.0",
-    "onnxruntime==1.16.3",
+    "onnxruntime==1.19.2",
     "protobuf==3.20.2",
     "colored",
     "pywin32;sys_platform == 'win32'"
