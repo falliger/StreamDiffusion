@@ -13,8 +13,8 @@ _deps = [
     "fire",
     "omegaconf",
     "cuda-python",
-    "onnx==1.15.0",
-    "onnxruntime==1.19.2",
+    "onnx==1.17.0",
+    "onnxruntime==1.20.1",
     "protobuf==3.20.2",
     "colored",
     "pywin32;sys_platform == 'win32'"
